@@ -63,4 +63,5 @@ function testarConexao() {
 
 $(document).on("click","#internet", function(){
 testarConexao();
+
 });
